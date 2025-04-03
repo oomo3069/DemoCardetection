@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/ultralytics/ultralytics?tab=readme-ov-file
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/521807533/dcd82112-f746-4e5c-a1d7-f696e642933e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250118T055619Z&X-Amz-Expires=300&X-Amz-Signature=95d7d93adb094d28c86ca36617bb0f940c01d22185bb0d12fefd49011d5f2f7f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dyolo11m.pt&response-content-type=application%2Foctet-stream
